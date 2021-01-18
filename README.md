@@ -1,4 +1,6 @@
 # Christmas 2020
+[![CodeFactor](https://www.codefactor.io/repository/github/cbridges851/christmas-2020/badge)](https://www.codefactor.io/repository/github/cbridges851/christmas-2020)
+
 This is the Christmas scene that I have created for 2020, take a look here: https://cbridges851.github.io/Christmas-2020/     
 Many thanks to the creators of the 3D models:  
 Tree - Aya Kawa - (https://poly.google.com/view/5Wb8VjhKy5T)   
