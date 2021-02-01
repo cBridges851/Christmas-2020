@@ -8,3 +8,6 @@ Snowmen - Alex "Saffy" Safayan - (https://poly.google.com/view/0DiDQUcuv1d)
 Candy Canes - Poly By Google - (https://poly.google.com/view/7DbOKA1uXfK)  
 Present 1 - Aaron Clifford - (https://poly.google.com/view/8wyQNiCKMBP)  
 Present 2 - Aaron Clifford - (https://poly.google.com/view/fTQnwgjpcuv)  
+
+## Motivation
+I wanted to wish people a Merry Christmas in 2020, and felt it would be interesting to give them good wishes in a new way! I wanted to put my A-Frame skills to the test, and had a go at making a virtual Christmas card!
