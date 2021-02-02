@@ -11,3 +11,6 @@ Present 2 - Aaron Clifford - (https://poly.google.com/view/fTQnwgjpcuv)
 
 ## Motivation
 I wanted to wish people a Merry Christmas in 2020, and felt it would be interesting to give them good wishes in a new way! I wanted to put my A-Frame skills to the test, and had a go at making a virtual Christmas card!
+
+## Tech/Framework
+This uses A-Frame, a framework that is used to create web VR scenes. This was created inside a HTML file.
